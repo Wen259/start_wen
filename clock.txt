@@ -1,0 +1,5 @@
+clock_t start,end;//clock_t本质上是宏定义的一个长整型
+strat=clock();
+//代码段
+end=clock();
+int t=end-start;
