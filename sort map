@@ -1,0 +1,1 @@
+vector<pair<string,int>>v(mp.begin(),mp.end());
